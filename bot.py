@@ -17,7 +17,7 @@ import base64
 import threading
 
 # ================= CONFIGURATION =================
-MY_TARGET_UID = "1234567890"  # 🎯 YAHAN APNA FF UID DALO
+MY_TARGET_UID = "12022250"  # 🎯 YAHAN APNA FF UID DALO
 # =================================================
 
 init(autoreset=True)
