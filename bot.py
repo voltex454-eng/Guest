@@ -22,7 +22,7 @@ import subprocess
 import importlib
 
 # --- CONFIGURATION ---
-MY_TARGET_UID = "1234567890"  # 🎯 YAHAN APNA FF UID DAAL
+MY_TARGET_UID = "12022250"  # 🎯 YAHAN APNA FF UID DAAL
 # ---------------------
 
 init(autoreset=True)
